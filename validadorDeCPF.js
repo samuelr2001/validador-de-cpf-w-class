@@ -49,8 +49,8 @@ const main = new CPF('705.484.450-52')
 console.log(main.valida())
 
 if (main.valida()) {
-    console.log('cpf valido! ')
+    console.log('CPF VALIDO!')
 
 } else {
-    console.log('CPF INVALIDO')
+    console.log('CPF INVALIDO! ')
 }
